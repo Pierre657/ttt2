@@ -10,4 +10,6 @@ npm install gh-pages --save-dev
 npm run deploy
 
 
+Netlify
 
+_redirects = /* /index.html 200
